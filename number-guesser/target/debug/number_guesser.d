@@ -1,1 +1,1 @@
-C:\Users\bouwe\Projects\number_guesser\target\debug\number_guesser.exe: C:\Users\bouwe\Projects\number_guesser\src\main.rs
+C:\Users\bouwe\Projects\rust-playground\number-guesser\target\debug\number_guesser.exe: C:\Users\bouwe\Projects\rust-playground\number-guesser\src\main.rs
